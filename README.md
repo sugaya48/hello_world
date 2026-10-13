@@ -1,2 +1,3 @@
 # hello_world
-setumei
+
+これはシステム工学応用実習の練習です
